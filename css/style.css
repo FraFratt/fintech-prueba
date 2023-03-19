@@ -769,3 +769,171 @@ video {
 }
 
 }
+
+/* General */
+
+@media only screen and (max-width: 768px) {
+  .container-videos-garantias {
+    max-width: 90%;
+  }
+
+  .grupo-recuadros {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.imagen-guia{
+  width: 300;
+  height: 400px;
+}
+
+
+
+.container-elegirlos{
+      max-width: none;
+      color: #0400e0;
+      text-align: center;
+}
+
+
+.opciones-servicios{
+    display: block;
+    background-color: #ffc9c7;
+    height: auto;
+}
+
+.elegirlos-competencia{
+  height: auto;
+}
+
+
+.descripcion{
+  height: auto;
+}
+
+.pasos-como{
+  height: auto;
+}
+
+.comprimiso{
+  height: auto;
+}
+
+
+.ofrecimiento-gratuito{
+  height: auto;
+}
+
+
+.noticias-semanal{
+  height: auto;
+}
+
+.profesionales{
+  height: auto;
+}
+
+
+.garantias-videos{
+  height: auto;
+}
+
+.formulario{
+  height: auto;
+}
+
+.navbar-header{
+  height: auto;
+}
+
+.recuadros-pasos{
+  max-width: 100%;
+  font-size: initial;
+  display: flex;
+  margin: 22px;
+  flex-wrap: nowrap;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+
+}
+
+
+/* 768 a 1650 */
+
+@media only screen and (min-width: 768px) and (max-width: 1650px) {
+  .container-videos-garantias {
+    max-width: 90%;
+  }
+
+  .grupo-recuadros {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.imagen-guia{
+  width: 300;
+  height: 400px;
+}
+
+
+
+.container-elegirlos{
+      max-width: none;
+      color: #0400e0;
+      text-align: center;
+}
+
+
+.opciones-servicios{
+    display: block;
+    background-color: #ffc9c7;
+    height: auto;
+}
+
+.elegirlos-competencia{
+  height: auto;
+}
+
+
+.descripcion{
+  height: auto;
+}
+
+.pasos-como{
+  height: auto;
+}
+
+.comprimiso{
+  height: auto;
+}
+
+
+.ofrecimiento-gratuito{
+  height: auto;
+}
+
+
+.noticias-semanal{
+  height: auto;
+}
+
+.profesionales{
+  height: auto;
+}
+
+
+.garantias-videos{
+  height: auto;
+}
+
+.formulario{
+  height: auto;
+}
+
+
+
+}
